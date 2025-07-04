@@ -1,0 +1,30 @@
+npx shadcn@latest add "https://v0.dev/chat/b/b_GRGaoroc1q7?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..L-9HUV2pM3Zma_Of.8dc_55dL7QrxqvNhPpqhb8H95-4dqDrgcBvl5_6U-xza1yHquaAT-Po7boE.hgtArJ9-adJ8oaJeSdaJlw"
+/npm run dev
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
